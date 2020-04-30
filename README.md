@@ -1,2 +1,2 @@
-# Galactic-Space-Rangers-Game
-I created my own game.
+# p5.play-boilerplate
+Boiler plate for p5.play
